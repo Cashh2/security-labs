@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Henery 'Benji' Cash — Cybersecurity Analyst, Security Instructor, U.S. Army Veteran" width="100%">
+  <img src="https://cdn.dribbble.com/userupload/28600636/file/still-6aa98b955803d75c19173f8865065804.png?format=webp&resize=400x300&vertical=center" alt="Henery 'Benji' Cash — Cybersecurity Analyst, Security Instructor, U.S. Army Veteran" width="100%">
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 ---
 
-<img src="assets/avatar.jpg" alt="Henery Cash" width="170" align="right" style="border-radius:50%">
+<img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="Henery Cash" width="170" align="right" style="border-radius:50%">
 
 ### About me
 
